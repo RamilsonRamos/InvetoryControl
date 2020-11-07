@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286312465102",
+    "firebase_url": "https://invetorycontrol-2d239.firebaseio.com",
+    "project_id": "invetorycontrol-2d239",
+    "storage_bucket": "invetorycontrol-2d239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286312465102:android:d9f41a743a07e9806c869f",
+        "android_client_info": {
+          "package_name": "com.example.invetorycontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286312465102-mk7gjemc2so425be2ikcna1qfmhr3be5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invetorycontrol",
+            "certificate_hash": "2897722e6b7ae1e3a64bca65f40c66efb09d5692"
+          }
+        },
+        {
+          "client_id": "286312465102-673sqela0pudrjue8ld12lpbdjvfr6v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDv2gLabQkX1w-Xw4rq_p739fkmDqLiNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286312465102-673sqela0pudrjue8ld12lpbdjvfr6v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
